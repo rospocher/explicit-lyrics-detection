@@ -34,4 +34,4 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
     In Expert Systems with Applications, Volume 163, January 2021, 113749<br/>
     [[bib](https://marcorospocher.com/files/bibs/2021eswa.bib)] 
     
-* Language models: Submitted, under revision.
+* Assessment of language models: Submitted, under revision.
