@@ -2,6 +2,8 @@
 
 This repository collects materials related to the detection of explicit song lyrics, i.e., determining if the lyrics of a given song could be offensive or unsuitable for children.
 
+## Code
+
 The code folder contains the Python code for:
 
 * majority and dictionary based classifier baselines ([baselines.py](code/baselines.py)). Bad words file available at: https://github.com/napolux/paroleitaliane/blob/master/paroleitaliane/lista_badwords.txt
@@ -15,3 +17,10 @@ The code folder contains the Python code for:
   * [dbmdz/bert-base-italian-uncased](https://huggingface.co/dbmdz/bert-base-italian-uncased)
   * [m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto](https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto)
   * [idb-ita/gilberto-uncased-from-camembert](https://huggingface.co/idb-ita/gilberto-uncased-from-camembert)
+
+## Datasets, Predictions, Scores
+
+The dataset (train and test splits), classifier predicitons, and classifier scores are available [here](https://bit.ly/it-exp-lyr).
+
+To build the dataset we relied on content provided through public platforms, namely LyricWiki and Spotify.
+Due to licensing issues, besides the explicitness metadata information (from Spotify), we can only make available the LyricWiki page ID of each lyrics, from which the full text of the lyrics can be retrieved from the [Internet Archive dump](https://archive.org/download/wiki-lyricsfandomcom/).
