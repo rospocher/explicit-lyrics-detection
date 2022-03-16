@@ -29,7 +29,7 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
 
 ## Publications
 
-* ***[Explicit song lyrics detection with subword-enriched word embeddings](https://doi.org/10.1016/j.eswa.2020.113749)**<br/>
+* **[Explicit song lyrics detection with subword-enriched word embeddings](https://doi.org/10.1016/j.eswa.2020.113749)**<br/>
     By Marco Rospocher<br/>
     In Expert Systems with Applications, Volume 163, January 2021, 113749<br/>
     [[bib](https://marcorospocher.com/files/bibs/2021eswa.bib)] 
