@@ -13,5 +13,5 @@ The code folder contains the Python code for:
   * [Musixmatch/umberto-commoncrawl-cased-v1](https://huggingface.co/Musixmatch/umberto-commoncrawl-cased-v1)
   * [bert-base-multilingual-uncased](https://huggingface.co/bert-base-multilingual-uncased)
   * [dbmdz/bert-base-italian-uncased](https://huggingface.co/dbmdz/bert-base-italian-uncased)
-  * [m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto](m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto)
+  * [m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto](https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto)
   * [idb-ita/gilberto-uncased-from-camembert](https://huggingface.co/idb-ita/gilberto-uncased-from-camembert)
