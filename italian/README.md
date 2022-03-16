@@ -24,3 +24,7 @@ The dataset (train and test splits), classifier predicitons, and classifier scor
 
 To build the dataset we relied on content provided through public platforms, namely LyricWiki and Spotify.
 Due to licensing issues, besides the explicitness metadata information (from Spotify), we can only make available the LyricWiki page ID of each lyrics, from which the full text of the lyrics can be retrieved from the [Internet Archive dump](https://archive.org/download/wiki-lyricsfandomcom/).
+
+## Publications
+
+Submitted, under revision.
