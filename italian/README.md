@@ -27,4 +27,4 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
 
 ## Publications
 
-Submitted, under revision.
+* Assessment on Italian Lyrics: Submitted, under review.
