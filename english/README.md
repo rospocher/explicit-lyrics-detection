@@ -4,7 +4,7 @@ This repository collects materials related to the detection of explicit song lyr
 
 ## Code
 
-The code folder contains the Python code for:
+The [code folder](code) contains the Python code for:
 
 * training and testing a logistic regression classifier with Bag-of-Word embeddings ([lrBOW.py](code/lrBOW.py))
 * training and testing a FastText classifier ([fasttext.py](code/fasttext.py))
@@ -22,7 +22,7 @@ The code folder contains the Python code for:
 
 ## Datasets, Predictions, Scores
 
-The dataset (train and test splits), classifier predicitons, and classifier scores are available [here](https://bit.ly/ft-explyr).
+The [dataset folder](dataset) contains links to the dataset (train and test splits), classifier predicitons, and classifier scores.
 
 To build the dataset we relied on content provided through public platforms, namely LyricWiki and Spotify.
 Due to licensing issues, besides the explicitness metadata information (from Spotify), we can only make available the LyricWiki page ID of each lyrics, from which the full text of the lyrics can be retrieved from the [Internet Archive dump](https://archive.org/download/wiki-lyricsfandomcom/).
