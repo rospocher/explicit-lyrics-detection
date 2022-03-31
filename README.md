@@ -6,7 +6,7 @@ This repository collects materials related to the detection of explicit song lyr
 
 The [english](english/) folder contains Python code for detecting explicit song lyrics in English, while the [italian](italian/) folder contains Python code for detecting explicit song lyrics in Italian.
 
-Links to ready-to-use systems for detecting explicit lyrics are available in both folders.
+Links to ready-to-use models for detecting explicit lyrics are available in both folders.
 
 
 ## Publications
