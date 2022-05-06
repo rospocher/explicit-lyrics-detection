@@ -15,7 +15,12 @@ Links to ready-to-use models for detecting explicit lyrics are available in both
     By Marco Rospocher<br/>
     In Expert Systems with Applications, Volume 163, January 2021, 113749<br/>
     [[bib](https://marcorospocher.com/files/bibs/2021eswa.bib)] 
+
+* **Detecting explicit lyrics: a case study in Italian music**<br/>
+    By Marco Rospocher<br/>
+    In Language Resources and Evaluation (To appear)<br/>
+    [[bib](https://marcorospocher.com/files/bibs/TAlre.bib)] 
     
 * Assessment of language models: Submitted, under review.
 
-* Assessment on Italian Lyrics: Submitted, under review.
+
