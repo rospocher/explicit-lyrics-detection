@@ -27,7 +27,7 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
 
 ## Publications
 
-* **Detecting explicit lyrics: a case study in Italian music**<br/>
+* **[Detecting explicit lyrics: a case study in Italian music](https://doi.org/10.1007/s10579-022-09595-3)**<br/>
     By Marco Rospocher<br/>
     In Language Resources and Evaluation (To appear)<br/>
     [[bib](https://marcorospocher.com/files/bibs/TAlre.bib)] 
