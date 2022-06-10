@@ -34,4 +34,7 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
     In Expert Systems with Applications, Volume 163, January 2021, 113749<br/>
     [[bib](https://marcorospocher.com/files/bibs/2021eswa.bib)] 
     
-* Assessment of language models: Submitted, under review.
+* **On exploiting Transformers for detecting explicit song lyrics**<br/>
+    By Marco Rospocher<br/>
+    In Entertainment Computing (To appear)<br/>
+    [[bib](https://marcorospocher.com/files/bibs/TAec.bib)] 
