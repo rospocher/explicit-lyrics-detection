@@ -21,7 +21,7 @@ Links to ready-to-use models for detecting explicit lyrics are available in both
     In Language Resources and Evaluation (To appear)<br/>
     [[bib](https://marcorospocher.com/files/bibs/TAlre.bib)] 
     
-* **On exploiting Transformers for detecting explicit song lyrics**<br/>
+* **[On exploiting Transformers for detecting explicit song lyrics](https://doi.org/10.1016/j.entcom.2022.100508)**<br/>
     By Marco Rospocher<br/>
     In Entertainment Computing (To appear)<br/>
     [[bib](https://marcorospocher.com/files/bibs/TAec.bib)] 

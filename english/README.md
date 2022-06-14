@@ -34,7 +34,7 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
     In Expert Systems with Applications, Volume 163, January 2021, 113749<br/>
     [[bib](https://marcorospocher.com/files/bibs/2021eswa.bib)] 
     
-* **On exploiting Transformers for detecting explicit song lyrics**<br/>
+* **[On exploiting Transformers for detecting explicit song lyrics](https://doi.org/10.1016/j.entcom.2022.100508)**<br/>
     By Marco Rospocher<br/>
     In Entertainment Computing (To appear)<br/>
     [[bib](https://marcorospocher.com/files/bibs/TAec.bib)] 
