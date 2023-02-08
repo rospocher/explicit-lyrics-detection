@@ -36,5 +36,5 @@ Due to licensing issues, besides the explicitness metadata information (from Spo
     
 * **[On exploiting Transformers for detecting explicit song lyrics](https://doi.org/10.1016/j.entcom.2022.100508)**<br/>
     By Marco Rospocher<br/>
-    In Entertainment Computing (To appear)<br/>
-    [[bib](https://marcorospocher.com/files/bibs/TAec.bib)] 
+    In Entertainment Computing, Volume 43, 2022, 100508,<br/>
+    [[bib](https://marcorospocher.com/files/bibs/2022ec.bib)] 
